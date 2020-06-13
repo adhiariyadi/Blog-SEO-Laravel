@@ -4,9 +4,10 @@
 
 Web Blog SEO yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **Blog SEO adalah Website untuk seseorang yang ingin membuat artikel atau blog melalui website dengan mudah.**
 
-## Fitur apa saja yang tersedia di Staycation?
+## Fitur apa saja yang tersedia di Blog SEO?
 
 - Autentikasi Admin
+- User & CRUD
 - Category & CRUD
 - Tag & CRUD
 - Post & CRUD
