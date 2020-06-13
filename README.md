@@ -20,15 +20,6 @@ Web Blog SEO yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ari
 
 ---
 
-## Default Account for testing
-
-**Admin Default Account**
-
-- Username: admin
-- Password: admin123
-
----
-
 ## Install
 
 1. **Clone Repository**
