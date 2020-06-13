@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di Staycation! 👋</h1>
+<h1 align="center">Selamat datang di Blog SEO! 👋</h1>
 
 ## Apa itu Blog SEO?
 
@@ -8,16 +8,13 @@ Web Blog SEO yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ari
 
 - Autentikasi Admin
 - Category & CRUD
-- Bank & CRUD
-- Item & CRUD
-- Feature & CRUD
-- Activity & CRUD
-- Booking
+- Tag & CRUD
+- Post & CRUD
 - Dan lain-lain
 
 ## Release Date
 
-**Release date : 13 Jun 2020**
+**Release date : 6 Jun 2020**
 
 > Blog SEO merupakan project open source yang dibuat oleh Adhi Ariyadi. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
 
@@ -37,21 +34,34 @@ Web Blog SEO yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ari
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/adhiariyadi/Staycation-Backend-ExpressJS.git
-cd Staycation-Backend-ExpressJS
+git clone https://github.com/adhiariyadi/Blog-SEO-Laravel.git
+cd Blog-SEO-Laravel
+composer install
+copy .env.example .env
 ```
 
-2. **Instalasi website**
+2. **Buka `.env` lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai**
 
 ```bash
-npm install
-node seeder.js
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
-3. **Jalankan website**
+3. **Instalasi website**
 
 ```bash
-npm run dev
+php artisan key:generate
+php artisan migrate
+php artisan db:seed
+php artisan storage:link
+```
+
+4. **Jalankan website**
+
+```bash
+php artisan serve
 ```
 
 ## Author
