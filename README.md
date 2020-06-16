@@ -69,4 +69,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 ## License
 
 - Copyright © 2020 Adhi Ariyadi.
-- **Staycation is open-sourced software licensed under the MIT license.**
+- **Blog SEO is open-sourced software licensed under the MIT license.**
