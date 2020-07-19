@@ -7,7 +7,7 @@
     <div class="social-widget">
       <ul>
         <li>
-          <a href="https://www.facebook.com/profile.php?id=100007787444809" class="social-facebook">
+          <a href="https://www.facebook.com/adhiariyadi.me/" class="social-facebook">
             <i class="fa fa-facebook"></i>
             <span>21.2 K<br>Followers</span>
           </a>

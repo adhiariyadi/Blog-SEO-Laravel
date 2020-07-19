@@ -11,7 +11,7 @@
 						</div>
 						<p>Nec feugiat nisl pretium fusce id velit ut tortor pretium. Nisl purus in mollis nunc sed. Nunc non blandit massa enim nec.</p>
 						<ul class="contact-social">
-							<li><a href="https://www.facebook.com/profile.php?id=100007787444809" class="social-facebook"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://www.facebook.com/adhiariyadi.me/" class="social-facebook"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="https://api.whatsapp.com/send?phone=6281246835129" class="social-whatsapp"><i class="fa fa-whatsapp"></i></a></li>
 							<li><a href="https://www.youtube.com/channel/UCSU_al9Rti8l4AQtgb4dZlg?view_as=subscriber" class="social-youtube"><i class="fa fa-youtube"></i></a></li>
 							<li><a href="https://www.instagram.com/adhiariyadi_/" class="social-instagram"><i class="fa fa-instagram"></i></a></li>

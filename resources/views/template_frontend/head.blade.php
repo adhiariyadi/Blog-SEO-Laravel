@@ -49,7 +49,7 @@
 				<div class="container">
 					<!-- social -->
 					<ul class="nav-social">
-						<li><a href="https://www.facebook.com/profile.php?id=100007787444809"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://www.facebook.com/adhiariyadi.me/"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="https://api.whatsapp.com/send?phone=6281246835129"><i class="fa fa-whatsapp"></i></a></li>
 						<li><a href="https://www.youtube.com/channel/UCSU_al9Rti8l4AQtgb4dZlg?view_as=subscriber"><i class="fa fa-youtube"></i></a></li>
 						<li><a href="https://www.instagram.com/adhiariyadi_/"><i class="fa fa-instagram"></i></a></li>
